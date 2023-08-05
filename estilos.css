@@ -20,7 +20,7 @@
     
     body{
     
-        background-image: url("cj.jpg");
+        background-image: url("perfecta.jpg");
         
         background-repeat: no-repeat;
         
@@ -91,9 +91,9 @@
         
          
         
-        background-repeat: no-repeat;
+        background-repeat:round;
         
-        float:left;
+        float:right;
         
         height: 200px;
         
@@ -103,20 +103,38 @@
         
         margin-right:5px;
         
-        background-image: url("imagen2.jpg");
+        background-image: url("primero.jpg");
         
         }
         
-        
+
         
         .textotecno{
         
-        text-align: justify;
+        text-align: center;
         
         color: azure;
         
         font-size: 20px;
+
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         
         
         
         }
+
+
+        .textosociales{
+        
+            text-align: center;
+            
+            color: azure;
+            
+            font-size: 20px;
+    
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+            
+            
+            
+            }
